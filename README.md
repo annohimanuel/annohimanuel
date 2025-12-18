@@ -1,16 +1,23 @@
-## Hi there 👋
+# Imanuel Annoh
 
-<!--
-**annohimanuel/annohimanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare-focused Data Scientist with strengths in machine learning, causal inference, and productionizing models as APIs.
 
-Here are some ideas to get you started:
+## Focus
+- 📊 Analytics: KPI tracking, exploratory analysis, business questions
+- 🤖 Machine Learning: classification, feature engineering, model evaluation, SHAP
+- 📈 BI & Reporting: dashboards (Tableau/Excel), stakeholder-ready insights
+- ⚙️ Deployment: packaging models, APIs (FastAPI), simple cloud deploys
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🏥 Hospital Readmission (30-day) — causal + ML + API
+- ✈️ Booking Completion Prediction — XGBoost + SHAP
+- ⚖️ AI Ethics: Liability in Medical Errors — research + policy analysis
+- 📌 Add 1 dashboard repo here (Tableau/Excel) to signal “Data Analyst”
+
+## Tech
+Python, pandas, NumPy, scikit-learn, XGBoost, FastAPI, SQL, Git, GitHub Pages
+
+## Links
+- Portfolio: https://annohimanuel.github.io
+- LinkedIn: https://www.linkedin.com/in/imanuelannoh
+- Email: annohimanuel123@gmail.com
