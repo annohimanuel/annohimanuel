@@ -1,6 +1,6 @@
 # Imanuel Annoh
 
-Healthcare-focused Data Scientist with strengths in machine learning, causal inference, and productionizing models as APIs.
+Data Analyst / Data Scientist building practical analytics and ML projects with clear business outcomes.
 
 ## Focus
 - 📊 Analytics: KPI tracking, exploratory analysis, business questions
