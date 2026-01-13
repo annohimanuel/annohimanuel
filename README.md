@@ -12,7 +12,6 @@ Data Analyst / Data Scientist building practical analytics and ML projects with 
 - 🏥 Hospital Readmission (30-day) — causal + ML + API
 - ✈️ Booking Completion Prediction — XGBoost + SHAP
 - ⚖️ AI Ethics: Liability in Medical Errors — research + policy analysis
-- 📌 Add 1 dashboard repo here (Tableau/Excel) to signal “Data Analyst”
 
 ## Tech
 Python, pandas, NumPy, scikit-learn, XGBoost, FastAPI, SQL, Git, GitHub Pages
